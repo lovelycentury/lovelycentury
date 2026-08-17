@@ -59,7 +59,7 @@ If you are shipping something that matters.
 📧 [oleksii.kryshtopa@gmail.com](mailto:oleksii.kryshtopa@gmail.com)  
 🌍 GMT+1 · replies within a day
 
-[LinkedIn](https://linkedin.com/in/oleksii-k-412625261) · [GitHub](https://github.com/lovelycentury) · [Portfolio](https://profile.okryshto.dev/en)
+[LinkedIn](https://linkedin.com/in/oleksii-k-412625261) · [Portfolio](https://profile.okryshto.dev/en)
 
 ---
 
