@@ -84,15 +84,6 @@ Kharkiv, Ukraine
 
 ---
 
-## Selected Links
-
-- [GitHub](https://github.com/lovelycentury) — Open-source & personal projects
-- [LinkedIn](https://linkedin.com/in/oleksii-k-412625261) — Experience, teams, and growth
-- [Portfolio](https://profile.okryshto.dev/en) — Full case studies
-- [onyx team](https://onyx.schwarz/about/team.html) — Featured contributor
-
----
-
 ## Let's talk
 
 If you are shipping something that matters.
