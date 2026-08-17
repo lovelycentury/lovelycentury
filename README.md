@@ -2,11 +2,6 @@
 
 **Senior Frontend Engineer** · Design Systems · Heilbronn, Germany
 
-📧 [oleksii.kryshtopa@gmail.com](mailto:oleksii.kryshtopa@gmail.com) · 📱 +49 175 8707582  
-🌍 GMT+1 · replies within a day
-
-[LinkedIn](https://linkedin.com/in/oleksii-k-412625261) · [Portfolio](https://profile.okryshto.dev/en) · [onyx team](https://onyx.schwarz/about/team.html)
-
 ---
 
 ## About
@@ -54,33 +49,6 @@ Senior Frontend Engineer with **5 years** of experience owning SaaS platforms en
 - 🇷🇺 Russian (fluent)
 - 🇬🇧 English (fluent)
 - 🇩🇪 German (B1+)
-
----
-
-## Open Source & Awards
-
-### SchwarzIT/onyx — Vue 3 Enterprise Design System
-**Featured Contributor** · Oct 2025 — Jan 2026
-
-- 8 merged PRs, ~8.4K LOC: headless slider composable (WAI-ARIA, multi-thumb), keyboard shortcut system with multi-step sequences, compact pagination, data grid resizing, file upload validation.
-- [Featured on the official team page](https://onyx.schwarz/about/team.html)
-
----
-
-### uni-donate — Blockchain Donation Platform
-**1st Place, South Africa Blockchain in Education Hackathon (ICP)** · Feb 2024
-
-- Learned Svelte in one week to ship the platform.
-- Prize included an invitation to the UN office in Qatar.
-- [Project link](https://etrr2-daaaa-aaaap-qcbha-cai.icp0.io/)
-
----
-
-## Education
-
-**Bachelor of Science in Computer Science**  
-Kharkiv National University of Radio Electronics · Oct 2018 — June 2022  
-Kharkiv, Ukraine
 
 ---
 
