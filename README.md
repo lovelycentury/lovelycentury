@@ -57,32 +57,6 @@ Senior Frontend Engineer with **5 years** of experience owning SaaS platforms en
 
 ---
 
-## Experience
-
-### Frontend Lead / Senior Frontend Engineer
-**Datasport Germany GmbH** · Feb 2023 — Present · Remote, Germany
-
-Sports-event SaaS for 500K+ participants — dynamic registration, payments, embeddable B2B widget.
-
-- Took over the platform after a failed €2M CRM delivery by a €38K/month outsourced team: rebuilt it from scratch and restructured delivery into a lean team at ~€12K/month (≈70% lower run-rate) while retaining all key clients.
-- Rebuilt core participant-management CRM from scratch (40K+ LOC, 40+ interdependent fields with DSL-driven conditional logic, virtualized grid) and shipped a multi-step registration wizard with SEPA/PayPal/Payrexx payments for high-profile client launches.
-- Built an embeddable, themeable registration widget (web components + MUI CSS-in-JS) enabling a new B2B integration; designed group registration for 500K+ participants.
-- Built a private, test-covered UI kit reused across multiple products, an athlete account platform, and contributed to an AI coaching product's chat UI.
-- Owned requirements and API contracts after the backend lead's departure; audited and patched vulnerable third-party dependencies ahead of a major release; mentored two engineers into independent leads.
-
----
-
-### Senior Frontend Developer
-**MINT** · Nov 2021 — Mar 2023 · Kharkiv, Ukraine / Remote
-
-Media-planning SaaS with virtualized reference grid and drag-and-drop workflows.
-
-- Owned code quality on a media-planning platform (Jenkins, Bitbucket); drove code-review culture and TDD.
-- Rebuilt the platform's media-plan data table (column resizing, drag-and-drop) into the reference implementation; contributed to launching a second product with new engineering practices.
-- Refined requirements directly with business owners on both products, translating ambiguous asks into scoped technical specs; mentored junior engineers on code quality and TDD practices.
-
----
-
 ## Open Source & Awards
 
 ### SchwarzIT/onyx — Vue 3 Enterprise Design System
