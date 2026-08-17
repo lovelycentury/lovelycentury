@@ -2,13 +2,9 @@
 
 **Senior Frontend Engineer** · Design Systems · Heilbronn, Germany
 
----
-
 ## About
 
 Senior Frontend Engineer with **5 years** of experience owning SaaS platforms end-to-end — from design systems and payment-critical registration flows to data grids built for **500K+ participants**. Proven expertise in React/Vue architecture, performance-sensitive UIs, and technical leadership across distributed teams.
-
----
 
 ## Toolkit
 
