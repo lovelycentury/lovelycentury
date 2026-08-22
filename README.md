@@ -41,7 +41,7 @@ Senior Frontend Engineer with **5 years** of experience owning SaaS platforms en
 
 ### Languages
 
-- 🇺🇦 Ukrainian (native)
-- 🇷🇺 Russian (fluent)
-- 🇬🇧 English (fluent)
-- 🇩🇪 German (B1)
+- 🇺🇦 Ukrainian
+- 🇷🇺 Russian
+- 🇬🇧 English
+- 🇩🇪 German
