@@ -1,6 +1,6 @@
 # Oleksii Kryshtopa
 
-**Senior Frontend Engineer** · Design Systems · Heilbronn, Germany
+**senior frontend engineer** · design systems · Heilbronn, Germany
 
 ## About
 
