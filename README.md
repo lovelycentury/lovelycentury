@@ -47,4 +47,4 @@ I’m passionate about building scalable, user‑centric  products with clean co
 - 🇺🇦 Ukrainian (native)
 - 🇷🇺 Russian (native)
 - 🇺🇸 English (fluent)
-- 🇩🇪 German (B2)
+- 🇩🇪 German (B1+)
