@@ -4,7 +4,10 @@ Heilbronn, Germany
 
 ## About
 
-Senior Frontend Engineer with **5 years** of experience owning SaaS platforms end-to-end — from design systems and payment-critical registration flows to data grids built for **500K+ participants**. Proven expertise in React/Vue architecture, performance-sensitive UIs, and technical leadership across distributed teams.
+Senior Frontend Engineer with 5 years of experience owning SaaS platforms end-to-end — from design systems and payment-critical registration flows to data grids built for 500K+ participants. Proven expertise in
+React/Svelte/Vue architecture, performance-sensitive UIs, and technical leadership across distributed teams.
+
+I’m passionate about building scalable, user‑centric  products with clean code and great DX. Currently open to Senior/Lead  Frontend roles in Germany (remote/hybrid) — especially in product‑driven  teams. Let’s connect!
 
 ## Toolkit
 
@@ -44,4 +47,4 @@ Senior Frontend Engineer with **5 years** of experience owning SaaS platforms en
 - 🇺🇦 Ukrainian (native)
 - 🇷🇺 Russian (native)
 - 🇺🇸 English (fluent)
-- 🇩🇪 German (B1+/B2)
+- 🇩🇪 German (B1+)
