@@ -41,10 +41,3 @@ I’m passionate about building scalable, user‑centric  products with clean co
 ![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)
 ![TDD](https://img.shields.io/badge/-TDD-000000?logo=testing-library&logoColor=white)
-
-### Languages
-
-- 🇺🇦 Ukrainian (native)
-- 🇷🇺 Russian (native)
-- 🇺🇸 English (fluent)
-- 🇩🇪 German (B1+)
