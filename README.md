@@ -8,8 +8,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=svelte&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?logo=mongodb&logoColor=white)
 
 ### Frontend Architecture
 
