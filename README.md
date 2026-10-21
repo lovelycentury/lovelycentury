@@ -1,18 +1,9 @@
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white)
-![Vue 3](https://img.shields.io/badge/-Vue%203-4fc08d?logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=svelte&logoColor=white)
-![Design Systems](https://img.shields.io/badge/-Design%20Systems-ff69b4?logo=figma&logoColor=white)
-![Headless Components](https://img.shields.io/badge/-Headless%20Components-000000?logo=react&logoColor=white)
-![WAI-ARIA](https://img.shields.io/badge/-WAI--ARIA-007396?logo=webaim&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-ff4154?logo=react-query&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white)
-![react-hook-form](https://img.shields.io/badge/-react--hook--form-ec5990?logo=react-hook-form&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-c21325?logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2ead33?logo=playwright&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-ff4785?logo=storybook&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=github-actions&logoColor=white)
-![TDD](https://img.shields.io/badge/-TDD-000000?logo=testing-library&logoColor=white)
+### 🛠 Tech Stack
+
+| | |
+|---|---|
+| **Languages & Frameworks** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue%203-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **UI & Design Systems** | ![Design Systems](https://img.shields.io/badge/Design%20Systems-f24e1e?style=flat-square&logo=figma&logoColor=white) ![Headless Components](https://img.shields.io/badge/Headless%20Components-111111?style=flat-square&logo=react&logoColor=white) ![WAI-ARIA](https://img.shields.io/badge/WAI--ARIA-005a9c?style=flat-square&logo=w3c&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=flat-square&logo=storybook&logoColor=white) |
+| **State & Data** | ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-ff4154?style=flat-square&logo=reactquery&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-ec5990?style=flat-square&logo=reacthookform&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white) ![TDD](https://img.shields.io/badge/TDD-e33332?style=flat-square&logo=testinglibrary&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white) |
