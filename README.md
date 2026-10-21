@@ -1,5 +1,3 @@
-### Technologies
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/-Vue%203-4fc08d?logo=vue.js&logoColor=white)
