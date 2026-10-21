@@ -1,5 +1,3 @@
-### 🛠 Tech Stack
-
 | | |
 |---|---|
 | **Languages & Frameworks** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue%203-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
